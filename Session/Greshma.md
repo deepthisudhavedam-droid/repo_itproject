@@ -6,6 +6,12 @@
 
 7th May 2026 - Had a scrum meeting where the members of the team discussed about the parts they did. Took feedback from the professor after he reviewed our project. Worked on tbe part-2 scenarios as advised by the professor. Had group discussions with the other group about each other projects and gave suggestions to the others and received suggestions that can be added to our project.
 
+12-05-2026 - installed VM & linux
+
+19-05-2026 - configured ftp with FileZilla, scp. installed NGINX, and deploid static website in NGINX website
+
+21-05-2026 - learnt about cloud & container, installed docker & docker compose 
+
 **Questions:**
 
 **Which concept was more useful for your project and why?**
