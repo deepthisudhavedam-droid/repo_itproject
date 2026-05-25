@@ -46,8 +46,8 @@ service-a  ──►  service-b
 ### Run locally
 
 ```bash
-git clone https://github.com/<your-org>/<your-repo>.git
-cd <your-repo>
+git clone gh repo clone Greshma1703/repo_itproject
+cd <gh repo clone Greshma1703/repo_itproject>
 cp .env.example .env   # fill in your values
 docker compose up --build
 ```
