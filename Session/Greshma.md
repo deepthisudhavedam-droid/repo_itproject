@@ -18,4 +18,4 @@
 
 For me it will be the concept of PERSONAS because this is the main source which decides and defines the rest of our project WearItRight. The persona can help us build the scenarios, the user stories and also defines on what features are necessary and which are not.
 
-**What is one assumption about your users that this workshop forced you to challenge?**
+*What is one assumption about your users that this workshop forced you to challenge?*
