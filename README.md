@@ -9,8 +9,7 @@
 | Product Owner | Lalit |
 | Scrum Master | brinda|
 | Scrum Master | Sandrin |
-| Developer |dj |
-| Developer |Greshma |
+| Developer |Greshma Neredimelli |
 
 
 ## Project Overview
